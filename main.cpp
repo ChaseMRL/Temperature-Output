@@ -1,7 +1,7 @@
 /*
 	Chase Deiter
 	C++ Fall 2023
-	Due: 10/30/2023
+	Due: 10/31/2023
 	Lab 4 Temperature Output
 
 	Design and write a C++ program that inputs a series of hourly temperature
